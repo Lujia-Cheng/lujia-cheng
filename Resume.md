@@ -1,6 +1,6 @@
 # Luke Cheng
 
-| Email                                           | inkedIn                                               | GitHub                                            |
+| Email                                           | LinkedIn                                               | GitHub                                            |
 | ----------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------- |
 | [LukeCheng@pitt.edu](mailto:LukeCheng@pitt.edu) | [Luke-Cheng](https://www.linkedin.com/in/luke-cheng) | [Lujia-Cheng](https://www.GitHub.com/Lujia-Cheng) |
 
