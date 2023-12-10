@@ -1,6 +1,6 @@
 # Hi there, I'm Luke 👋
 
-I'm a Master's student at the University of Pittsburgh, majoring in Information Science. I am actively seeking co-op or new grad job opportunities. My [résumé](./Resume.md)
+I'm a Master's student at the University of Pittsburgh, majoring in Information Science. I'll be graduating May 2024. Thus I am actively seeking ~~co-op~~ or new grad opportunities. You can find my [résumé](./Resume.md) here
 
 ## 📫 Best way to reach me
 
