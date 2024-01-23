@@ -2,7 +2,6 @@
 
 [email](mailto:LukeCheng@pitt.edu) | [LinkedIn](https://www.linkedin.com/in/luke-cheng/) | [Github](https://www.GitHub.com/Lujia-Cheng)
 
-
 ## EDUCATION
 
 ### University of Pittsburgh | Pittsburgh, PA
