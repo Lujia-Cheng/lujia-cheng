@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Lujia Cheng, you can call me Luke, make it easier for you to pronounce. 
+# 👋 Hi there, I'm Lujia Cheng. I usually go with "Luke"
 
 I'm a Master's student at the University of Pittsburgh, majoring in Information Science. I'll be graduating May 2024. Thus I am actively seeking ~~co-op or~~ new grad position. I don't know how you get here, but here's my [CV](./CV.md) which should contain all the information you need.
 
