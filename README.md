@@ -11,7 +11,7 @@ I do enjoy a good conversation, so feel free to reach out to me on any of the pl
 
 ## 🌏 Website
 
-[lujia-cheng.github.io](https://lujia-cheng.github.io)
+[lujia-cheng.github.io](https://lujia-cheng.github.io): [source code](https://github.com/Lujia-Cheng/lujia-cheng.github.io)
 
 ## 🚀 Projects
 
