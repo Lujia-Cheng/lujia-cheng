@@ -1,78 +1,88 @@
 # Luke Cheng
 
-[email](mailto:LukeCheng@pitt.edu) | [LinkedIn](https://www.linkedin.com/in/luke-cheng/) | [Github](https://www.GitHub.com/Lujia-Cheng)
+## SUMMARY
 
-## EDUCATION
+Luke's background in chemistry and philosophy instilled a rigorous problem-solving mindset and the ability to analyze complex systems. Intrigued by technology's potential to create real-world solutions, he pivoted his career, earning a master's in information science - a field encompassing algorithm design, data analysis, security, and human factors. His project portfolio demonstrates adaptability, a drive to continuously learn, and a commitment to developing impactful technology. This includes collaborating with the bioinformatics department to develop a patient record search platform (Patient Like Mine) used by UPMC physicians to improve data-driven treatment decisions, building a personal website with a custom AI chatbot to explore the frontiers of AI technology, and spearheading a community effort to translate the Screeps documents and APIs into Chinese, fostering accessibility for hundreds of developers.
 
-### University of Pittsburgh | Pittsburgh, PA
+## EDUCATIONS
 
-> M.S. in information science | 08/2022 - 05/2024
+### M.S. in Information Science | University of Pittsburgh | GPA 3.8 08/2022 - 05/2024
 
 - Relevant Courses: algorithms, data structures, database, interactive system design, machine learning, network, cryptography
 
-### Virginia Tech | Blacksburg, VA
+### B.S. in Chemistry and Philosophy | Virginia Tech 08/2016 - 12/2020
 
-> B.S. in chemistry and philosophy | 08/2016 – 12/2020
-
-- Relevant Courses: Software Design, Java, Ethics & AI
-
-## ACTIVITY
-
-- Game4SocialImpact - First Penguin award
-- Virginia Tech Parkour Club - Treasurer
-- CyberForce2023
+- Relevant Courses: software design, java, ethics & AI
 
 ## EXPERIENCE
 
-### ChemPacific Corp | Baltimore, MD
+### Chemist | ChemPacific Corp, Baltimore, MD 05/2021 - 05/2022
 
-> Research Scientist, 05/2021 – 05/2022
+- Optimized Good Manufacturing Practice (GMP) production procedures and automated High-Performance Liquid Chromatography (HPLC) testing using Agilent script, reducing daily workload by 30 minutes, streamlining processes, and minimizing machine idle time.
+- Collaborated with QA and the National Medical Products Administration (NMPA) to ensure international chemical import/export compliance, demonstrating adaptability, meticulous attention to detail, and effective cross-cultural communication and negotiation skills.
+- Translated complex synthesis processes into clear production guidelines for an overseas mass-production subsidiary, ensuring consistent quality across development and international production environments and facilitating effective cross-border collaboration.
+- Developed a low-budget remote controlling solution using a smart plug and webcam, enabling weekend reaction supervision and improving resource utilization.
 
-- Automated HPLC testing process, improving throughput and accuracy. Facilitated cross-functional collaboration with the quality control team and local regulators, ensuring product compliance for export through effective communication and project management.
-- Optimized GMP production procedures, achieving a more efficient workflow that reduced a 30-minute daily workload. Demonstrated expertise in process analysis and improvement, contributing to higher productivity and operational excellence.
-- Developed and standardized mass-production guidelines for overseas partner plants, ensuring consistent quality across locations. Utilized analytical skills to translate complex chemical processes into clear, implementable standards for enhanced production efficiency and quality control.
+## PROJECTS
 
-## PROJECT
+### Personal Website with AI Chat Assistant | React, Azure, OpenAI, Google Gemini | [lujia-cheng.github.io](http://lujia-cheng.github.io/)
 
-### Full-stack E-Commerce Website [Glitch](https://glitch.com/@a-plus-team/infsci-2560-final-project)
+- Developed a personal website featuring an AI chat assistant trained on my resume, project details, and insights into my motivations and career goals. This enables the assistant to provide in-depth answers about my professional experience, skills, and aspirations.
+- Leveraged React for front-end development, Azure for serverless architecture, and fine-tuned a large language model (Gemini/Gemma) for this specialized conversational experience.
 
-- Engineered an e-commerce system featuring product search, shopping cart, and user profile management using MongoDB, Express.js, ReactJS, and Material-UI.
-- Overcame challenges in deployment and integration with Glitch.com, displayed adaptability and problem-solving skills in new framework.
+### Patient Like Mine | UI/UX, web dev, search engine
 
-### Android Morse Code Keyboard [GitHub](https://github.com/Lujia-Cheng/MorseCodeIME)
+- Developed an internal patient record search platform for UPMC physicians, empowering them to rapidly evaluate treatment efficacy and make informed decisions.
+- Led comprehensive UX research among medical professionals.
+- Designed a highly intuitive UI based on research findings, ensuring seamless data retrieval while strictly adhering to Fast Healthcare Interoperability Resources (FHIR) standards.
+- Orchestrated successful integration with a UPMC database, enabling secure and efficient data exchange.
 
-- Implemented an Android Input Method Editor to facilitate a smoother Morse code learning curve.
-- Utilized haptic feedback during typing to reinforce Morse code learning through pattern recognition. Improved user experience and learning efficiency.
+### Screeps Doc/API Translation | Git, GitHub Action | [Organization Repo](https://github.com/screeps-cn)
 
-### Patient Like Mine
+- Spearheaded a developer community effort to translate Screeps documents and API into Chinese (zh-CN), significantly increasing accessibility for hundreds of developers.
+- Streamlined the CI/CD process by leveraging GitHub for collaborative work, documentation management, and effective source control.
 
-- Developed an internal search platform enabling physicians to evaluate treatment efficacy.
-- Conducted comprehensive UI/UX research among UPMC medical professionals.
-- Designed the UI based on research findings, incorporating data retrieval in compliance with FHIR standards.
-- Orchestrated the integration with a UPMC-provided database.
-  ### Bon Voyage [GitHub](https://itch.io/jam/pitt-games-4-social-impact-2023/rate/2303857)
-- Received the First Penguin award at the 2023 Game 4 Social Impact event, University of Pittsburgh.
-- Self-taught C# base on documentation and previous experience in Java.
-- Developed a third-person game using Unity within two days. Demonstrated adaptability and rapid skill acquisition.
+### Full-stack E-Commerce Website | MongoDB, Express, React, Node.js | [Interactive Demo](https://glitch.com/@a-plus-team/infsci-2560-final-project)
 
-### PPG Paint Data Mining
+- Developed a full-featured MERN stack e-commerce platform, including product search, shopping cart functionality, and user profile management.
+- Demonstrated adaptability and problem-solving by successfully overcoming deployment challenges within the unique constraints of Glitch.com's CI/CD workflow.
 
-- Conducted a detailed analysis of a PPG-sponsored paint sales dataset.
-- Applied advanced data mining techniques to uncover key features.
-- Identified correlations with paint popularity, significantly improving predictive accuracy.
-- Generated actionable insights into consumer preferences for strategic decision-making.
+### Android Morse Code Keyboard | android, Java, Kotlin | [Illustrated Demo](https://github.com/Lujia-Cheng/MorseCodeIME)
 
-### Screeps AI
+- Developed a unique Android Input Method Editor (IME) designed to facilitate intuitive Morse code learning.
+- Integrated haptic feedback to reinforce Morse code patterns, creating a multi-sensory learning experience.
+
+### Creative Python Project: Image to Staggered Brick Walls | Python | [Illustrated Demo](https://github.com/Lujia-Cheng/ke-architecture-sandbox)
+
+- A creative project that utilized Python packages (NumPy, scikit-image, scikit-learn) to generate color palettes from images and visually construct brick walls using the extracted colors.
+
+### Bon Voyage | C#, Unity | [Interactive Demo](https://github.com/emmhh/negImapct)
+
+- Received the First Penguin Award at the 2023 Games4SocialImpact game jam (University of Pittsburgh) for developing a third-person adventure game that creatively explores themes of “age”.
+- Leveraged C## and Unity expertise to rapidly develop the award-winning game within a two-day timeframe, demonstrating technical proficiency and adaptability.
+
+### Twofish Encryption in Java & Misc. Cryptography | Java | [Project Overview](https://github.com/Lujia-Cheng/CryptoPlayground)
+
+- Implemented the Twofish encryption algorithm in Java, demonstrating a strong understanding of cryptographic principles.
+- Developed a suite of cryptography-related scripts, streamlining encryption and decryption tasks and showcasing versatility.
+
+### CUDA Learning & Experimentation | CUDA, C++
+
+- Actively learning and experimenting with CUDA C++ for parallel programming, applying it to projects such as matrix operations and image filtering.
+
+### PPG Paint Data Mining | R, RStudio
+
+- Analyzed a PPG-sponsored paint sales dataset, uncovering key features influencing popularity and improving predictive accuracy for demand forecasting.
+- Applied advanced data mining techniques (consider listing a few specifics) to extract actionable insights into consumer preferences, informing strategic decision-making.
+
+### Screeps AI | JavaScript, typescript
 
 - Developed control scripts in JavaScript for the Screeps.com game.
 - Implemented data storage optimizations and efficient garbage collection techniques.
 
-### Screeps Doc/API Translation
+## LEADERSHIP & ACTIVITIES
 
-- Led a community project to translate Screeps documents/API into Chinese (zh-CN).
-- Engaged bilingual users for ongoing project maintenance.
-- Utilized GitHub for collaborative translating, documentation, and source control.
-
-## SKILL
-
-Java, JavaScript, Typescript, Node.js, ReactJS, Express.js, HTML, CSS, Bootstrap, Python, Django, Flask, C#, Unity, Git, GitHub, CI/CD, mySQL, MariaDB, MongoDB, C++, AWS, Azure, Docker, jQuery, Android, Linux
+- Led the University of Pittsburgh's delegation (CyberPanther1) to the CyberForce competition, spearheading a rapid response to sabotage during the 8-hour competition. Rebuilt the React frontend, migrated systems to a secure virtual machine, and actively defended the infrastructure. Additionally, mentored our sibling team, contributing to an improved overall college ranking.
+- Recognized with the First Penguin Award at Games4SocialImpact 2023 (University of Pittsburgh) game jam for developing "Bon Voyage", an innovative third-person exploration game focused on the theme of "age".
+- Founded and maintaining Screeps China (github.com), a doc/API translation project that expanded access to hundreds of Chinese-speaking developers by translating essential documentation and APIs.
+- Stabilized the Virginia Tech Parkour Club as Treasurer, managing finances, securing a 60% discount for members, and navigating leadership transitions during the challenges of COVID-19.

@@ -9,10 +9,10 @@ I do enjoy a good conversation, so feel free to reach out to me on any of the pl
 - LinkedIn: [Luke-Cheng](https://www.linkedin.com/in/luke-cheng/)
 - Email: [LukeCheng@pitt.edu](mailto:lukecheng@pitt.edu)
 
-## 🌏 Website
+## 🌏 Website [Link](https://lujia-cheng.github.io)
 
-[lujia-cheng.github.io](https://lujia-cheng.github.io): [source code](https://github.com/Lujia-Cheng/lujia-cheng.github.io)
+You can find the source code of this website on this [GitHub repo](https://github.com/Lujia-Cheng/lujia-cheng.github.io). Feel free to learn from it and use it for your own projects.
 
 ## 🚀 Projects
 
-Pinned below are some of my projects that I enjoyed working on.
+Pinned below are a selection of my projects that I enjoyed working on.
