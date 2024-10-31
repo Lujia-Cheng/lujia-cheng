@@ -86,7 +86,7 @@ export async function OPTIONS() {
   return new NextResponse(null, {
     status: 204,
     headers: {
-      "Access-Control-Allow-Origin": "https://lujia-cheng.github.io/",
+      "Access-Control-Allow-Origin": "*",
       "Access-Control-Allow-Methods": "POST, OPTIONS",
       "Access-Control-Allow-Headers": "Content-Type",
     },
@@ -124,7 +124,7 @@ export async function POST(req: NextRequest) {
     {
       headers: {
         "Content-Type": "application/json",
-        "Access-Control-Allow-Origin": "https://lujia-cheng.github.io/",
+        "Access-Control-Allow-Origin": "*",
       },
       status: 200,
     }
