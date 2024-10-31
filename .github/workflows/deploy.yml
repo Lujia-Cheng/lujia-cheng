@@ -1,0 +1,20 @@
+name: Deploy my GitHub.io
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    defaults:
+      run:
+        working-directory: ./website
+
+    runs-on: ubuntu-latest
+    env:
+      API_URL: ${{ vars.API_URL }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: TODO
+        uses: actions/setup-node@v4
